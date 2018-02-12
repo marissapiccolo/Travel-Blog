@@ -1,0 +1,11 @@
+
+.nav {font-family: Courier new;}
+.w3-third img{margin-bottom: auto; opacity: 0.8; cursor: pointer}
+.w3-third img:hover{opacity: 1;}
+h1,h3{font-family: 'Lobster'; color: black;}
+.w3-third img{margin-bottom: auto; opacity: 0.8; cursor: pointer}
+.w3-third img:hover{opacity: 1;}
+h1{text-align: center; margin-top: 75px; margin-bottom: 30px;}
+.center{display: block; margin-left: auto; margin-right: auto; width: 50%; border-radius: 50%;}
+.aboutpara {font-family: Courier new; font-color: gray; text-align: center; padding: 30px 100px 100px 100px;}
+</style>
